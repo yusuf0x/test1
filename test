@@ -6,8 +6,8 @@
 			"layout_width": "match_parent",
 			"layout_height": "match_parent",
 			"padding": "8dp",
-			"background": "https://st4.depositphotos.com/4984749/20144/i/450/depositphotos_201446926-stock-photo-gradient-background-black-night-dark.jpg",
-			"orientation": "horizontal"
+			"background": "https://gravatar.com/avatar/d8c1d84f1c8f04858c7519dafb84dd31?s=400&d=robohash&r=x",
+			"orientation": "vertical"
 		},
 		"views": [{
 				"class": "android.widget.ImageView",
