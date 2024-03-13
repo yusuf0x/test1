@@ -29,7 +29,7 @@
 					"paddingEnd": "15dp",
 					"layout_marginTop": "60dp",
 					"hintTextColor": "#FF4A4949",
-					"hint": "EDIT TEXT 1",
+					"hint": "TEXT 1",
 					"background": "#FFFFFF",
 					"textColor": "#000000"
 				}
@@ -45,7 +45,7 @@
 					"paddingStart": "15dp",
 					"paddingEnd": "15dp",
 					"hintTextColor": "#FF4A4949",
-					"hint": "EDIT TEXT 2",
+					"hint": "TEXT 2",
 					"background": "#FFFFFF",
 					"textColor": "#000000"
 				}
@@ -63,23 +63,7 @@
 					"gravity": "CENTER",
 					"background": "#FF2196F3",
 					"textColor": "#FFFFFF",
-					"onClick": {
-						"class": "com.dynamiclayout.demolayout.MainActivity",
-						"method": "onImageClick",
-						"parameters": [{
-								"type": "java.lang.String",
-								"value": "Hi testing"
-							},
-							{
-								"type": "java.lang.Integer",
-								"value": 123
-							},
-							{
-								"type": "android.content.Context",
-								"value": "context"
-							}
-						]
-					}
+				
 				}
 
 			}
