@@ -7,8 +7,7 @@
             "layout_width":"match_parent",
             "layout_height":"match_parent",
             "padding":"8dp",
-            "background":"https://st4.depositphotos.com/4984749/20144/i/450/depositphotos_201446926-stock-photo-gradient-background-black-night-dark.jpg",
-            "orientation":"vertical"
+            "background":"https://images.unsplash.com/photo-1505533321630-975218a5f66f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
          },
          "views":[
             {
