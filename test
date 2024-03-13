@@ -6,7 +6,7 @@
 			"layout_width": "match_parent",
 			"layout_height": "match_parent",
 			"padding": "8dp",
-			"background": "https://gravatar.com/avatar/d8c1d84f1c8f04858c7519dafb84dd31?s=400&d=robohash&r=x",
+			"background": "https://images.unsplash.com/photo-1505533321630-975218a5f66f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
 			"orientation": "vertical"
 		},
 		"views": [{
@@ -15,7 +15,7 @@
 					"layout_width": "match_parent",
 					"layout_marginTop": "30dp",
 					"layout_height": "120dp",
-					"src": "https://cdn-icons-png.flaticon.com/512/6146/6146171.png",
+					"src": "https://gravatar.com/avatar/d8c1d84f1c8f04858c7519dafb84dd31?s=400&d=robohash&r=x",
 					"gravity": "CENTER_HORIZONTAL"
 				}
 			},
